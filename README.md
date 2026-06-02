@@ -1,5 +1,9 @@
 # CareBot AI — Fall Detection System
 
+<img width="941" height="748" alt="image" src="https://github.com/user-attachments/assets/cacf8364-8d51-4efc-853c-9d204405b260" />
+<img width="925" height="1599" alt="image" src="https://github.com/user-attachments/assets/7b8f496c-c69c-4606-b23e-733591615043" />
+<img width="941" height="748" alt="image" src="https://github.com/user-attachments/assets/d691b49d-ce39-4d97-a28a-bb6f49c5d511" />
+
 **Intelligent Real-Time Fall Detection System** using Computer Vision.
 
 Combines **MediaPipe** and **YOLOv8-Pose** for high accuracy and reliability.
