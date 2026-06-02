@@ -6,7 +6,6 @@ Combines **MediaPipe** and **YOLOv8-Pose** for high accuracy and reliability.
 
 ![CareBot AI](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
