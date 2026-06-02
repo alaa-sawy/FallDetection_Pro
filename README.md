@@ -41,25 +41,41 @@ Then open your browser at: http://localhost:8000
 
 3. Analysis Tools
 conditions_test.py — Test system under different conditions
+
 param_comparison.py — Compare different parameter settings
+
 evaluator.py — Dual model evaluation
 
 ## 📁 Project Structure
 imageProcessing/
 ├── main.py                    # Main dual-mode application
+
 ├── server.py                  # Web server
+
 ├── modules/
+
 │   ├── detection_logic.py
+
 │   ├── verification_logic.py
+
 │   ├── logger_utils.py
+
 │   ├── dashboard.py
+
 │   ├── alert_system.py
+
 │   ├── image_processor.py
+
 │   └── report_generator.py
+
 ├── output/                    # Generated reports, videos & screenshots
+
 ├── events_log.csv             # All events log
+
 ├── analytics.html             # Analytics dashboard
+
 ├── yolov8n-pose.pt            # YOLOv8 Pose model
+
 └── pose_landmarker.task       # MediaPipe model
 
 ## 📊 Automatic Reports
